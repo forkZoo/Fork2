@@ -1,8 +1,8 @@
 {
-  "dna_hash": "4140b0f2b191d62c",
+  "dna_hash": "f53bda1c44aaa9d6",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 93,
+  "mutation_count": 94,
   "rarity_score": 68.33333333333333,
   "parent_id": null,
   "traits": {
@@ -27,9 +27,9 @@
       "rarity": "legendary"
     },
     "special": {
-      "value": "godlike",
+      "value": "mythical",
       "rarity": "legendary"
     }
   },
-  "last_updated": "2026-05-05T03:37:18.030432"
+  "last_updated": "2026-05-06T03:53:04.643399"
 }
