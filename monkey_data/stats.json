@@ -1,9 +1,9 @@
 {
-  "dna_hash": "e6604575fb29814e",
+  "dna_hash": "be3f9e1b2f8d0235",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 127,
-  "rarity_score": 66.66666666666666,
+  "mutation_count": 128,
+  "rarity_score": 75.0,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,8 +15,8 @@
       "rarity": "rare"
     },
     "accessory": {
-      "value": "laser_eyes",
-      "rarity": "rare"
+      "value": "golden_crown",
+      "rarity": "legendary"
     },
     "pattern": {
       "value": "lightning",
@@ -31,5 +31,5 @@
       "rarity": "legendary"
     }
   },
-  "last_updated": "2026-06-30T04:15:27.089857"
+  "last_updated": "2026-07-01T04:43:57.599738"
 }
