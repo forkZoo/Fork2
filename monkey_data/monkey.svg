@@ -88,11 +88,11 @@
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
 <line x1="150" y1="158" x2="174" y2="158" stroke="#5D2E0C" stroke-width="2"/>
 <line x1="226" y1="158" x2="250" y2="158" stroke="#5D2E0C" stroke-width="2"/>
-<polygon points="200,10 145,85 255,85" fill="#4B0082"/><ellipse cx="200" cy="85" rx="65" ry="12" fill="#4B0082"/><text x="200" y="55" font-size="20" fill="#FFD700" text-anchor="middle">★</text>
-<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="139" cy="151" r="3" fill="#FFD700" opacity="0.6"/><circle cx="178" cy="202" r="3" fill="#FFD700" opacity="0.6"/><circle cx="217" cy="253" r="3" fill="#FFD700" opacity="0.6"/><circle cx="256" cy="104" r="3" fill="#FFD700" opacity="0.6"/><circle cx="295" cy="155" r="3" fill="#FFD700" opacity="0.6"/><circle cx="134" cy="206" r="3" fill="#FFD700" opacity="0.6"/><circle cx="173" cy="257" r="3" fill="#FFD700" opacity="0.6"/><circle cx="212" cy="108" r="3" fill="#FFD700" opacity="0.6"/><circle cx="251" cy="159" r="3" fill="#FFD700" opacity="0.6"/><circle cx="290" cy="210" r="3" fill="#FFD700" opacity="0.6"/><circle cx="129" cy="261" r="3" fill="#FFD700" opacity="0.6"/>
+<polygon points="155,70 170,35 190,60 210,35 230,60 245,35 245,85 155,85" fill="#FFD700" stroke="#B8860B" stroke-width="3"/><circle cx="200" cy="45" r="8" fill="#E74C3C"/><circle cx="175" cy="55" r="5" fill="#3498DB"/><circle cx="225" cy="55" r="5" fill="#2ECC71"/>
+<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="257" cy="213" r="3" fill="#FFD700" opacity="0.6"/><circle cx="214" cy="126" r="3" fill="#FFD700" opacity="0.6"/><circle cx="171" cy="239" r="3" fill="#FFD700" opacity="0.6"/><circle cx="128" cy="152" r="3" fill="#FFD700" opacity="0.6"/><circle cx="285" cy="265" r="3" fill="#FFD700" opacity="0.6"/><circle cx="242" cy="178" r="3" fill="#FFD700" opacity="0.6"/><circle cx="199" cy="291" r="3" fill="#FFD700" opacity="0.6"/><circle cx="156" cy="204" r="3" fill="#FFD700" opacity="0.6"/><circle cx="113" cy="117" r="3" fill="#FFD700" opacity="0.6"/><circle cx="270" cy="230" r="3" fill="#FFD700" opacity="0.6"/><circle cx="227" cy="143" r="3" fill="#FFD700" opacity="0.6"/>
 <g transform="translate(325, 15)">
-            <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
-            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">UNCOMMON</text>
+            <rect width="65" height="22" rx="4" fill="#9370DB" opacity="0.9"/>
+            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">RARE</text>
         </g>
         <g transform="translate(10, 15)">
             <rect width="45" height="22" rx="4" fill="#333" opacity="0.8"/>
