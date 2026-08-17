@@ -1,9 +1,9 @@
 {
-  "dna_hash": "17322b7757aeb944",
+  "dna_hash": "6bc524af53fe9466",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 155,
-  "rarity_score": 61.66666666666667,
+  "mutation_count": 157,
+  "rarity_score": 56.666666666666664,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -19,7 +19,7 @@
       "rarity": "legendary"
     },
     "pattern": {
-      "value": "lightning",
+      "value": "nebula",
       "rarity": "rare"
     },
     "background": {
@@ -27,9 +27,9 @@
       "rarity": "legendary"
     },
     "special": {
-      "value": "aura",
-      "rarity": "rare"
+      "value": "shadow",
+      "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-08-16T01:47:53.509096"
+  "last_updated": "2026-08-17T01:46:02.648131"
 }
