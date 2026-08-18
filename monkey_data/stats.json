@@ -1,8 +1,8 @@
 {
-  "dna_hash": "6bc524af53fe9466",
+  "dna_hash": "f69c0486cce33bcf",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 157,
+  "mutation_count": 158,
   "rarity_score": 56.666666666666664,
   "parent_id": null,
   "traits": {
@@ -19,7 +19,7 @@
       "rarity": "legendary"
     },
     "pattern": {
-      "value": "nebula",
+      "value": "fractals",
       "rarity": "rare"
     },
     "background": {
@@ -31,5 +31,5 @@
       "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-08-17T01:46:02.648131"
+  "last_updated": "2026-08-18T01:40:55.591443"
 }
